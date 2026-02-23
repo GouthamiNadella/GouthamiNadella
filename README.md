@@ -1,5 +1,4 @@
-MS Computer Science @ SUNY Binghamton  
-Former Associate Software Developer @ Accenture  
+MS Computer Science @ SUNY Binghamton | Former Associate Software Developer @ Accenture  
 
 🚀 Full-Stack & Backend Engineer | Cloud, Distributed Systems & AI/ML  
 💻 Java | Spring Boot | React | TypeScript | PostgreSQL | Redis  
