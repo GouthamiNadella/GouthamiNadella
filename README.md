@@ -1,4 +1,4 @@
- MS Computer Science @ SUNY Binghamton  
+MS Computer Science @ SUNY Binghamton  
 Former Associate Software Developer @ Accenture  
 
 🚀 Full-Stack & Backend Engineer | Cloud, Distributed Systems & AI/ML  
@@ -7,5 +7,6 @@ Former Associate Software Developer @ Accenture
 🧠 Distributed Systems | Microservices | REST & gRPC | JWT Auth  
 🔍 Passionate about building scalable, high-performance systems
 📖 Exploring advanced cloud, system design & AI-driven solutions 
+
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nadella-gouthami) | [Portfolio](https://gouthaminadella.github.io/portfolio/)
